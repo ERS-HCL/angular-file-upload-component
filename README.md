@@ -1,13 +1,13 @@
 # Angular File Uploader Component
 
 ## Start Uploading:
-![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/startUploading.PNG)
+![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/assets/startUploading.PNG)
 
 ## Upload Completed
-![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/endUploading.PNG)
+![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/assets/endUploading.PNG)
 
 ## Network XHR calls to send the uploading file/s as binary
-![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/NetworkRequest.PNG)
+![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/assets/NetworkRequest.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
