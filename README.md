@@ -1,5 +1,8 @@
 # Angular File Uploader Component
 
+## Description
+A reusable component to upload any local file(txt/pdf/doc/docx/jpg/png etc.) on server, and ultimately save/fetch to/from desired database location.
+
 ## Start Uploading:
 ![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/assets/startUploading.PNG)
 
@@ -10,9 +13,6 @@
 ![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/assets/NetworkRequest.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
-
-## Description
-A reusable component to upload any local file(txt/pdf/doc/docx/jpg/png etc.) on server, and ultimately save/fetch to/from desired database location.
 
 ## Demo
 You may want to have a look at the demo : https://staticassets-bd560.firebaseapp.com/
