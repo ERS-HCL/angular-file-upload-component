@@ -23,7 +23,7 @@ You may want to have a look at the demo : https://staticassets-bd560.firebaseapp
 3. Run "npm start" and your application will start in your default browser at "localhost:4200"
 
 ## Code walkthrough
-![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/assets/codeWalkthrough.PNG)
+![alt text](https://github.com/AshuHCL/angular-file-upload-component/blob/master/assets/codeWalthrough.PNG)
 
 ## Server Code
 There is also /server folder, which contains the sample server code to demonstrate the server behaviour. This can be modified to save/fetch the file to/from the desired location.
