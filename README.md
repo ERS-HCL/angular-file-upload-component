@@ -20,7 +20,7 @@ You may want to have a look at the demo : https://staticassets-bd560.firebaseapp
 ## Steps to start the application locally
 1. Clone the application
 2. Run "npm install" at the root folder of the application to download the node_modules
-3. Run "npm start" and your application will start in your default browser at "localhost:3000"
+3. Run "npm start" and your application will start in your default browser at "localhost:4200"
 
 ## Server Code
 There is also /server folder, which contains the sample server code to demonstrate the server behaviour. This can be modified to save/fetch the file to/from the desired location.
