@@ -18,7 +18,7 @@ export class DialogComponent implements OnInit {
   ngOnInit() {}
 
   progress;
-  canBeClosed = true;
+  canBeClosed = false;
   primaryButtonText = 'Upload';
   showCancelButton = true;
   uploading = false;
@@ -31,6 +31,7 @@ export class DialogComponent implements OnInit {
         this.files.add(files[key]);
       }
     }
+     this.canBeClosed = true;
   }
 
   addFiles() {
